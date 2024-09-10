@@ -24,17 +24,38 @@ Processar os dados (manipular, alterar...)
 Apresentar os dados
 
 ## Escopos e variáveis (variavel é uma 'caixinha' de guardar informações para usa-las mais tarde)
-variaveis globais e locais
-constantes
+- [x] variaveis globais e locais
+- [x] constantes
 const (Não pode ser alterada)
 {} (chaves) (Ao colocar uma variavel dentro de chaves ela se torna locar e as que estão fora dela se tornam global)
 
 ## Tipos de dados
 
-Strings (textos): "" '' ``
-Number: 2, 1.4
-functions
+- [x] Strings (textos): "" '' ``
+- [x] Number: 2, 1.4
+- [x] boolean: true or false
 
 ## operadores
 
 Operador de atribuição de valor: =
+operador de contatenador: []
+
+## Estrutura de dados:
+
+### Arrays:
+
+[x] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+[x] Atributos e métodos
+[x] Criação de manipulação de objetos
+[x] Acesso a propriedades de objetos
+
+Quando é colocado um ponto entre os objetos (console.log) quer dizer que você esta acessando 
+
+### functions:
+
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] Arrow function / named function
