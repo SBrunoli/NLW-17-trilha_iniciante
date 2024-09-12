@@ -59,3 +59,7 @@ Quando é colocado um ponto entre os objetos (console.log) quer dizer que você 
 - [x] Criar, passar argumento
 - [x] Executar
 - [x] Arrow function / named function
+
+ # estrutura de repetição
+
+ - [x] while
