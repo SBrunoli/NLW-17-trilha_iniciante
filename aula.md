@@ -67,3 +67,12 @@ Quando é colocado um ponto entre os objetos (console.log) quer dizer que você 
   # Condicionais 
 
 - [x] switch
+
+## Módulos em node.js
+
+- [x] Importação de módulos (require, commonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Primises:
+
+- [x] Uso de funções assíncronas (Async/await)
