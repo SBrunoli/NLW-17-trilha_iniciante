@@ -60,6 +60,10 @@ Quando é colocado um ponto entre os objetos (console.log) quer dizer que você 
 - [x] Executar
 - [x] Arrow function / named function
 
- # estrutura de repetição
+ # Estrutura de repetição
 
  - [x] while
+
+  # Condicionais 
+
+- [x] switch
