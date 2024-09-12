@@ -37,8 +37,9 @@ const (Não pode ser alterada)
 
 ## operadores
 
-Operador de atribuição de valor: =
-operador de contatenador: []
+- [x] Operador de atribuição de valor: =
+- [x] operador de contatenador: +
+- [x] Operadores de comparação: == != <= >= < >
 
 ## Estrutura de dados:
 
@@ -73,6 +74,6 @@ Quando é colocado um ponto entre os objetos (console.log) quer dizer que você 
 - [x] Importação de módulos (require, commonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
 
-## Programação assíncrona e Primises:
+## Programação assíncrona e Promises:
 
 - [x] Uso de funções assíncronas (Async/await)
