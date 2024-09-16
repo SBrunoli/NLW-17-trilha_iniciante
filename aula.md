@@ -40,12 +40,13 @@ const (Não pode ser alterada)
 - [x] Operador de atribuição de valor: =
 - [x] operador de contatenador: +
 - [x] Operadores de comparação: == != <= >= < >
-
+- [x] Spread operator: ...
 ## Estrutura de dados:
 
 ### Arrays:
 
-[x] Uma lista que contém qualquer tipo de dado
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, {find, forEach, filter} : HOF (Higher Order Functions)
 
 ### Objetos:
 
