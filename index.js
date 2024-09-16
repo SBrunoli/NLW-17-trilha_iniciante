@@ -9,14 +9,16 @@ let metas = [ meta ]
 const cadastrarMeta = async () => {
   const meta = await input({ message: "Digite a meta:" })
 
+  metas.push(
+    { value: meta, checked: false }
+)
+
   if (metas.length == 0) {
     console.log("A meta não pode ser vazia.")
     return
   }
 
-  metas.push(
-    { value: meta, checked: false }
-)
+
 }
 
 const listarMetas = async () => {
@@ -53,7 +55,7 @@ const listarMetas = async () => {
       })
 
       if(realizadas.length == 0) {
-        console.log('N~ao existem metas realizadas! :c')
+        console.log('Não existem metas realizadas! :c')
       }
 
       await select ({
