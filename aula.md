@@ -74,6 +74,13 @@ Quando é colocado um ponto entre os objetos (console.log) quer dizer que você 
 
 - [x] Importação de módulos (require, commonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (File System)
+
+## JSON
+
+- [x] JavaScript Object Notation (.json)
+- [x] JSON.parse(): transforma de JSON para JS
+- [x] JSON.stringfy(): tranforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
